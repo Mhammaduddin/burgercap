@@ -1,0 +1,18 @@
+.form-group{
+    text-align: left;
+}
+label{
+    padding-left: 1%;
+}
+
+button{
+    margin-bottom: 5%;
+    width: 100%;
+    font-weight: 600;
+    padding: 10px !important;
+}
+.heading{
+    background-color: #FAA918;
+    color: white;
+     margin-bottom: 5%;
+}
