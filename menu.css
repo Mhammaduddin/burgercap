@@ -7,3 +7,7 @@
 .card-body{
     background-image:url(/images/menu_wings_v1.jpg) ;
 }
+.menu-items{
+    color: white !important;
+    font-size: 1.3rem;
+}

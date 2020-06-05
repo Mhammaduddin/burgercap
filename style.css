@@ -164,3 +164,7 @@ footer h1{
         padding-right: auto;
     }
   }
+  .menu-items{
+    color: white !important;
+    font-size: 1.3rem;
+}
